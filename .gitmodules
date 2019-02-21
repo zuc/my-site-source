@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:zuc/zuc.me.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git

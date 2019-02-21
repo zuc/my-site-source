@@ -1,0 +1,4 @@
+baseURL = "https://zuc.me/"
+languageCode = "en-us"
+title = "zuc.me | Zuc's personal website"
+theme = "hugo-coder"
